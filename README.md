@@ -55,7 +55,7 @@ Bridge rectifier with filter:
 Bridge rectifier without filter:
 <img width="1280" height="904" alt="image" src="https://github.com/user-attachments/assets/2f641933-a024-4ed7-b128-93f88601502e" />
 
-
+ 
 ## TABULAR COLUMN
 # Half wave rectifier
 <img width="1280" height="463" alt="image" src="https://github.com/user-attachments/assets/1af10bf8-9a2e-48a0-a20b-083dbaa4bcdb" />
